@@ -18,7 +18,7 @@ Plotly Express for interactive maps
 NumPy for numerical operations
 Google Colab for analysis execution
 
-# 📂 Dataset
+**📂 Dataset**
 The dataset used in this project was obtained from a public Airbnb dataset that includes listings in New York City, with features such as:
 
 Listing ID, host ID
