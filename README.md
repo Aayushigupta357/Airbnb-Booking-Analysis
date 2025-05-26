@@ -1,16 +1,16 @@
 # 🏡 Airbnb Booking Analysis
 
-# 📘 Project Overview
+**📘 Project Overview**
 This project is a comprehensive exploratory data analysis (EDA) of Airbnb listings, designed to uncover insights into pricing, availability, neighborhood trends, and host activity. By using real-world Airbnb data, we aim to understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
-# 🎯 Objective
+**🎯 Objective**
 Explore and visualize Airbnb listings across a major city (e.g., NYC).
 Understand the distribution of prices, room types, and availability.
 Analyze spatial and temporal booking trends.
 Derive business insights to optimize listing performance.
 Recommend strategies based on data-driven analysis.
 
-# 🛠️ Tools & Libraries Used
+**🛠️ Tools & Libraries Used**
 Python 3.x
 Pandas for data manipulation
 Matplotlib & Seaborn for visualizations
@@ -30,7 +30,7 @@ Minimum nights
 Number of reviews
 Availability and review scores
 
-# 📊 Analysis Report
+**📊 Analysis Report**
 
 1. Data Cleaning
 Filled missing values in reviews_per_month with 0.
@@ -72,14 +72,15 @@ Price is moderately correlated with availability and number of reviews.
 Number of reviews is positively correlated with listings that are available year-round.
 Note: Categorical columns like room type and neighbourhood were excluded from correlation but could be used in future ML models via encoding.
 
-# 📌 Key Takeaways
+**📌 Key Takeaways**
 Insight	Implication
 Majority listings are Entire apartments	Guest preference for privacy
 Price < $200 is most common	Budget-focused market
 Manhattan has highest prices	Popular, high-demand zone
 High availability → More reviews	Availability boosts visibility and bookings
 
-# 📦 Recommendations
+**📦 Recommendations**
+
 For Hosts
 Keep calendars open year-round to improve visibility.
 Set prices competitively below the $150 mark.
@@ -93,12 +94,12 @@ For Airbnb (Platform)
 Feature underrated neighborhoods to balance demand.
 Offer smart pricing suggestions based on seasonal data.
 
-# 📈 Future Scope
+**📈 Future Scope**
 Predict listing prices using machine learning (Linear Regression, XGBoost).
 Forecast occupancy rates based on seasonality and location.
 Add NLP analysis for listing descriptions and review sentiment.
 
-# 📁 Folder Structure
+**📁 Folder Structure**
 Airbnb-Booking-Analysis/
 │
 ├── Airbnb.csv                   # Raw dataset
@@ -106,10 +107,11 @@ Airbnb-Booking-Analysis/
 ├── Airbnb_Jupyter_notebook.ipynb
 ├── README.md                    # Project summary and analysis
 
-# 🤝 Contributing
+**🤝 Contributing**
 Feel free to fork this project and contribute. For suggestions or improvements, please open an issue or submit a pull request.
 
 **📬 Contact**
+
 Author: Aayushi Gupta
 
 LinkedIn: [https://www.linkedin.com/in/aayushi-gupta-8757371a9/]
