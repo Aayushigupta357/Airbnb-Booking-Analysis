@@ -109,8 +109,10 @@ Airbnb-Booking-Analysis/
 # 🤝 Contributing
 Feel free to fork this project and contribute. For suggestions or improvements, please open an issue or submit a pull request.
 
-📬 Contact
+**📬 Contact**
 Author: Aayushi Gupta
+
 LinkedIn: [https://www.linkedin.com/in/aayushi-gupta-8757371a9/]
+
 GitHub: [https://github.com/Aayushigupta357]
 
